@@ -13,7 +13,7 @@ This project is a **House Price Prediction Model** that utilizes **Python Flask*
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/techcsispit/House-Price-Prediction
+   git clone https://github.com/Asheeesh9/House-Price-Predictor
    ```
 2. Navigate to the backend folder and install dependencies:
    ```bash
